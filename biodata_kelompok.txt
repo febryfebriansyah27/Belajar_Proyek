@@ -2,3 +2,18 @@ Anggota 1:
 Nama : Ikhlas Nawaaluullah
 Kelas : IF23C
 NIM : 2301061
+
+Anggota 2:
+Nama: Andi Adi Saputra
+Kelas: IF23C
+NIM: 230102020
+
+Anggota 3:
+Nama: Aqil Arsalan R
+Kelas: IF23C
+NIM: 230102064
+
+Anggota 4:
+Nama: Febry Febriansyah
+Kelas: IF23C
+NIM: 230102050
